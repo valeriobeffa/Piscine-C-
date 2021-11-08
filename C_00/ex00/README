@@ -1,4 +1,4 @@
-MEGAPHONE
+# Megaphone - 42 ROMA LUISS
 
 Just to be sure that everybody is awake, write a program that has the following behavior:
 $>./megaphone "shhhhh... I think the students are asleep..."
